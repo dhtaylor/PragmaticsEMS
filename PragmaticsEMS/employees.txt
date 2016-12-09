@@ -1,0 +1,4 @@
+1101	dandy.taylor	Password-01	Dandy	Taylor	11/20/2015	Administrator	0
+1102	bob.smith	Password-01	Bob	Smith	11/20/2015	Manager	0
+1103	jim.adams	Password-01	Jim	Adams	11/20/2015	Programmer	1102
+1104	todd.williams	Password-01	Todd	Williams	11/20/2015	Programmer	1102
